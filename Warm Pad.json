@@ -1,0 +1,10 @@
+{
+  "preset_name": "Warm Pad",
+  "style": "Ambient",
+  "parameters": {
+    "oscMix": 0.6,
+    "filterCutoff": 1200,
+    "attack": 0.8,
+    "release": 2.5
+  }
+}

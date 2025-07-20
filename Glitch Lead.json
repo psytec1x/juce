@@ -1,0 +1,10 @@
+{
+  "preset_name": "Glitch Lead",
+  "style": "Experimental",
+  "parameters": {
+    "oscMix": 0.9,
+    "filterCutoff": 3000,
+    "attack": 0.01,
+    "release": 0.2
+  }
+}
